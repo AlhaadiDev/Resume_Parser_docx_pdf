@@ -1,10 +1,14 @@
 python
-R
 latex
-stata
 computer science
 mysql
 microsoft office
 analytics
 Java
 VB
+SQL
+JavaScript
+Matlab
+Unix
+GitHub
+LinkedIn
